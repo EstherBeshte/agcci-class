@@ -1,2 +1,2 @@
 # agcci-class
-my first repository
+my first repository is fun!
